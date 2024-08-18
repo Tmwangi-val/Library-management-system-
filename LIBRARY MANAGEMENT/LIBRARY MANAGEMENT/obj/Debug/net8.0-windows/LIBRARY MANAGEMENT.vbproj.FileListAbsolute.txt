@@ -1,0 +1,24 @@
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT.exe
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT.deps.json
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT.runtimeconfig.json
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\LIBRARY MANAGEMENT.pdb
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.vbproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY_MANAGEMENT.Form1.resources
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.vbproj.GenerateResource.cache
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.AssemblyInfo.vb
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.vbproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY .271137D3.Up2Date
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\refint\LIBRARY MANAGEMENT.dll
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.pdb
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\LIBRARY MANAGEMENT.genruntimeconfig.cache
+C:\Users\Martin\source\repos\LIBRARY MANAGEMENT\LIBRARY MANAGEMENT\obj\Debug\net8.0-windows\ref\LIBRARY MANAGEMENT.dll
